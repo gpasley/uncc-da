@@ -1,0 +1,5 @@
+Pandas Home Observations
+
+1. Males purchase the most
+2. Most players are between ages 20-24
+3. Players over the age of 40 are most likely to purchase something
