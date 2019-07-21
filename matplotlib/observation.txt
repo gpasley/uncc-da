@@ -1,0 +1,5 @@
+Observations
+
+1. Most rides and drivers come from Urban cities
+2. Highest average fare comes from Rural cities
+3. It looks like suburban drivers have the best opportunity
