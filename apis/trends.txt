@@ -1,0 +1,5 @@
+Trends
+
+1. Cities trended towards having a low wind speed regardless of distance from equator
+2. Cities trended towards having a high humidity regardless of distance from equator
+3. City max temperature trended higher the closer to the equator
