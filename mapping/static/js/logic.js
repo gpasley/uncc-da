@@ -97,11 +97,11 @@ function createMap(earthquakes) {
 
   function getColor(d) {
     return d < 2 ? 'lightblue' :
-          d < 4  ? 'green' :
-          d < 6  ? 'yellow' :
-          d < 8  ? 'orange' :
-          d < 10  ? 'red' :
-                   'white';
+          d < 4  ? 'yellow' :
+          d < 6  ? 'orange' :
+          d < 8  ? 'red' :
+          d < 10  ? 'green' :
+                   'purple';
 }
   var legend = L.control({position: 'bottomright'});
 
